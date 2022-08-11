@@ -7,8 +7,7 @@ export default defineNuxtConfig({
             title: 'Lucyyy',
             viewport: 'width=device-width, initial-scale=1, maximum-scale=1',
             charset: 'utf-8',
-            meta: [ { name: 'description', content: 'Hi there!' } ],
-            bodyAttrs: { class: 'test' }
+            meta: [ { name: 'description', content: 'Hi there!' } ]
         }
     }
 })
