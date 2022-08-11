@@ -6,7 +6,7 @@
       <div  style="display: inline-block; text-align: left;">
         <h1 class="title">Caìo,<br>i'm <span class="highlight">&lt;Lucy/&gt;</span></h1>
       </div>
-      <p>I'm a self-taught web developer software engineer & UX designer from New Jersey!</p>
+      <p>I'm a self-taught web developer, software engineer & UX designer from New Jersey!</p>
     </section>
 
     <!--   Links   -->
