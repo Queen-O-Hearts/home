@@ -5,7 +5,6 @@
 </template>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&display=swap');
 .title {
   font-family: 'Montserrat', sans-serif;
@@ -16,7 +15,7 @@
   color: #d2afdd;
 }
 
-html {
+body {
   background-color: #110e12;
   background-image: url("/blobs.svg");
   background-repeat: no-repeat;
