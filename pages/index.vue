@@ -42,8 +42,9 @@
       </div>
     </section>
 
-
-    <div class="footer" style="opacity: 0.25; font-size: 0.8em;">&copy;Lucy Mason 2021-{{ new Date().getFullYear() }}</div>
+    <center style="margin-top: 2em;">
+        <div style="opacity: 0.25; font-size: 0.8em;">&copy;Lucy Mason 2021-{{ new Date().getFullYear() }}</div>
+    </center>
   </div>
 </template>
 
