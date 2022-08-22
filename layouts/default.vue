@@ -45,11 +45,4 @@ button:active {
   transition-duration: 0.25s;
     box-shadow: 2px 2px #3f3442, 4px 4px #997ea1;
 }
-
-.footer {
-  position: fixed;
-  bottom: 1em;
-  left: 50%;
-  transform: translate(-50%, 0);
-}
 </style>
