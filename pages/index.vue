@@ -34,14 +34,6 @@
       </div>
     </section>
 
-    <!--   Note   -->
-    <section>
-      <div style="margin-top: 5em; text-align: center;">
-        <h1>Work</h1>
-        <p style="padding: 0 25% 0 25%">I sometimes accept commission work. If you wish to discuss, please contact me via Discord. However, this isn't frequent as I'm still in highschool, have a full time job and I'm duel-enrolled in college.</p>
-      </div>
-    </section>
-
     <center style="margin-top: 2em;">
         <div style="opacity: 0.25; font-size: 0.8em;">&copy;Lucy Mason 2021-{{ new Date().getFullYear() }}</div>
     </center>
