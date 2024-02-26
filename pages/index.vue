@@ -30,7 +30,7 @@
     <section>
       <div style="margin-top: 5em; text-align: center;">
         <h1>Contact Me</h1>
-        <p><b>Discord</b> Lucyyy#7205</p>
+        <p><b>Discord</b> @lucy.mason</p>
       </div>
     </section>
 
